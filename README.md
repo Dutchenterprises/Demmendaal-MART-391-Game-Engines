@@ -13,3 +13,5 @@ Wow it's done! What a ride.
 
 Here's the link to my trailer: https://www.youtube.com/watch?v=nXhXHw2SV8c
 
+And the link to my game: https://app.box.com/s/hxof3gj0vtw8ztnb79guhnjzkr452nul
+
