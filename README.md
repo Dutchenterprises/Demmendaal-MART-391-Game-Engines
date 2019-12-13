@@ -2,12 +2,10 @@
 Implementation
 
 
-Here are the things I've been working on:
+Wow it's done! What a ride.
+-The final build includes a little intro animation of the PC falling, some plant based bad guys, vines, and even more falling rocks!
+-Not sure what our GDD is.
+-user testing is included in my powerpoint
 
-  -Player has animations, did this mostly so I can use the crouch animation to test out crouching behind rocks for future things
- 
-  -Created Falling Stalagtite prefab and Plant Spitter Pre fab, although the latter is not finished.
-  
-  -Worked on level 1, creating more of the map.
-  
-  -More in depth Timeline as well as thoughts on Psychological aspects
+Here's the link to my trailer: https://www.youtube.com/watch?v=nXhXHw2SV8c
+
